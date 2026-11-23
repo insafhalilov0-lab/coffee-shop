@@ -15,5 +15,5 @@
 
 ## Как посмотреть
 - [Открыть живой сайт](https://insafhalilov0-lab.github.io/coffee-shop/)
-- [Посмотреть код (HTML)](https://github.com/insafhalilov0-lab/coffee-shop/blob/main/coffe.html)
-- [Посмотреть код (CSS)](https://github.com/insafhalilov0-lab/coffee-shop/blob/main/coffe.css)
+- [Посмотреть код (HTML)](https://github.com/insafhalilov0-lab/coffee-shop/blob/main/index.html)
+- [Посмотреть код (CSS)](https://github.com/insafhalilov0-lab/coffee-shop/blob/main/style.css)
